@@ -1,4 +1,4 @@
-# StreamBridg - Latest build v1.0.7
+# StreamBridg - Latest build v1.0.8
 Merge live chat from YouTube, TikTok, and Twitch into a single customisable overlay for streaming. Features per-platform colours and fonts, text-to-speech, notification sounds, profanity filtering, viewer counts, and an OBS browser source with native transparency.
 
 <img width="590" height="629" alt="Screenshot 2026-06-27 141500" src="https://github.com/user-attachments/assets/1f8c16b9-986e-402e-8db5-23f624a1b632" />
